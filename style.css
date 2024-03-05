@@ -25,7 +25,7 @@ p {
 }
 
 nav {
-  position: fixed;
+  position: static;
   bottom: 0;
   right: 0;
   width: 200px;
