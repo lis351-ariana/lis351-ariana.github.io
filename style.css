@@ -2,11 +2,12 @@ h1 {
   color: #F27984;
   text-align: center;
   font-family: "Georgia", serif;
-  padding-top: 20px;
+  padding-top: 5px;
 }
 h2 {
   color: #F27984;
   text-align: center;
+  padding-top: 5px;
 }
 
 .center {
@@ -18,11 +19,7 @@ h2 {
 
 body {
   background-color: #DACFC3;
-}
-
-p {
-  color: #817C52;
-  text-align: center;
+  padding-top: 5px;
 }
 
 nav {
@@ -30,3 +27,121 @@ nav {
   top: 10px;
   right: 10px;
 }
+
+.blurb {
+  width: 500px;
+  position: relative;
+  left: 750px;
+  font-size: 20px;
+  padding: 30px;
+  background-color:#817C52;
+  border-radius: 25px;
+  top: -440px;
+
+}
+
+section {
+  position: relative;
+  left: 350px;
+  width:200;
+  height:500px;
+}
+
+div.interest1 {
+  position: relative;
+  left: 930px;
+  padding: 5px;
+  top:-440px;
+  background-color: #FCA806;
+  width: 140px;
+  border-radius: 25px;
+}
+
+.reference{
+  position: relative;
+  left: 760px;
+  top: -435px;
+  width: 530px;
+  font-size: 15px;
+  background-color: #817C52;
+  border-radius: 25px;
+  padding: 5px;
+  padding-left:10px;
+}
+
+.la{
+  color:#817C52;
+  position: relative;
+  right: 25%;
+  top: 51px;
+}
+
+.madison{
+  color:#817C52;
+  position: relative;
+  right: 0%;
+  top: -320px;
+}
+
+.other{
+  color:#817C52;
+  position: relative;
+  right: -25%;
+  top: -690px;
+
+}
+
+.elephante{
+  position: relative;
+  left: 15%;
+  top: 75px;
+  width: 300px;
+  height: 300px;
+}
+
+.lake{
+  position: relative;
+  left: 40%;
+  top: -300px;
+  width: 300px;
+  height: 300px;
+}
+
+.fountain{
+  position: relative;
+  left: 65%;
+  top: -675px;
+  width: 300px;
+  height: 300px;
+}
+
+dl{
+ padding: 30px;
+ background: #817C52;
+ width: 420px;
+ border-radius: 25px;
+}
+
+.chicken{
+  position: relative;
+  left:35%;
+  top: -450px;
+  width: 435px;
+  height: 435px;
+  border-radius: 25px;
+}
+
+.carrots{
+  position: relative;
+  left:38%;
+  top: -450px;
+  width: 435px;
+  height: 435px;
+  border-radius: 25px;
+}
+
+
+
+
+
+
